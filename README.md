@@ -18,7 +18,7 @@
 </p>
 
 <!-- ======================= Neon Divider ======================= -->
-<p align="center">
+<!--<p align="center">
   <img src="https://github.com/Ashik-Muhammed/Ashik-Muhammed/blob/47725f419b343f5c06fc26251785ac9ed5731f16/Clutter.gif" width="350" alt="Orbiting Astronaut and Robot">
 </p>
 
