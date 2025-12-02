@@ -3,13 +3,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3500&pause=600&color=A64CF5&center=true&vCenter=true&width=900&lines=Hi+There+👋,+I'm+Ashik+Muhammed;Cross-Platform+App+Developer;Computer+Vision+Engineer;IoT+%26+Embedded+Systems+Innovator;Welcome+to+My+Tech+Galaxy!">
 </p>
 
-<!-- ======================= Galaxy Banner ======================= -->
+
+<!-- ======================= Banner ======================= -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashik-ai-assets/galaxy/main/banner-galaxy.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashik-ai-assets/galaxy/main/banner-galaxy.png">
-    <img src="https://raw.githubusercontent.com/ashik-ai-assets/galaxy/main/banner-galaxy.png" alt="Ashik Galaxy Banner" width="100%">
-  </picture>
+  <img src="https://github.com/Ashik-Muhammed/Ashik-Muhammed/blob/4414d3d80f3690bc27bec1b8d76f99a35089c7d2/Galaxy.jpeg" alt="Galaxy Banner" width="100%" />
 </p>
 
 <!-- ======================= BADGES ======================= -->
