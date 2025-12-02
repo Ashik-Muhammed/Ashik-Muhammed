@@ -139,14 +139,5 @@
 
 ---
 
-# 📬 Connect With Me
-
-<p align="center">
-  <a href="mailto:ashikmuhammed123@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://www.linkedin.com/in/ashik-muhammed"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://ashik-muhammed.github.io"><img src="https://skillicons.dev/icons?i=web" /></a>
-</p>
-
----
 
 <p align="center">✨ Thanks for visiting — feel free to explore my repositories! ✨</p>
