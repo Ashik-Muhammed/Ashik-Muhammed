@@ -18,10 +18,10 @@
 </p>
 
 <!-- ======================= Neon Divider ======================= -->
-<!-- ======================= Neon Divider ======================= -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/gradient.png" width="100%">
+  <img src="https://github.com/Ashik-Muhammed/Ashik-Muhammed/blob/47725f419b343f5c06fc26251785ac9ed5731f16/Clutter.gif" width="350" alt="Orbiting Astronaut and Robot">
 </p>
+
 
 <!-- ======================= Orbiting Astronaut + Robot Mascot ======================= -->
 <p align="center">
@@ -31,22 +31,6 @@
 <!-- ======================= FEATURED PROJECTS (GLOW CARDS) ======================= -->
 <h1 align="center">🚀 FEATURED PROJECTS</h1>
 
-<style>
-.project-card {
-  padding: 18px;
-  border-radius: 15px;
-  background: rgba(20, 20, 35, 0.6);
-  border: 1px solid rgba(140, 50, 255, 0.3);
-  transition: 0.35s;
-  width: 90%;
-  margin: 12px auto;
-}
-.project-card:hover {
-  transform: scale(1.03);
-  box-shadow: 0 0 25px rgba(160, 60, 255, 0.6);
-  border-color: #b96bff;
-}
-</style>
 
 <div align="center">
 
