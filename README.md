@@ -9,7 +9,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashik-Muhammed/Ashik-Muhammed/main/assets/banner-dark.png">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashik-Muhammed/Ashik-Muhammed/main/assets/banner-light.png">
-    <img alt="Ashik Banner" src="https://raw.githubusercontent.com/Ashik-Muhammed/Ashik-Muhammed/main/assets/banner-light.png">
+    
   </picture>
 </p>
 
