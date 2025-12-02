@@ -24,7 +24,7 @@
 
 <!-- ======================= Orbiting Astronaut + Robot Mascot ======================= -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashik-ai-assets/galaxy/main/astro-robot-orbit.gif" width="350" alt="Orbiting Astronaut and Robot">
+  <img src="https://github.com/Ashik-Muhammed/Ashik-Muhammed/blob/47725f419b343f5c06fc26251785ac9ed5731f16/Swim.gif" width="350" alt="Orbiting Astronaut and Robot">
 </p>
 
 <!-- ======================= FEATURED PROJECTS (GLOW CARDS) ======================= -->
