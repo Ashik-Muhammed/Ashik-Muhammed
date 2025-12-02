@@ -1,143 +1,123 @@
-<!-- ======================= Animated Banner ======================= -->
-
+<!-- ======================= Animated Typing Header ======================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=4E9AF1&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I'm+Ashik+Muhammed;Cross-Platform+App+Developer;Computer+Vision+Engineer;IoT+and+Embedded+Systems+Enthusiast;Welcome+to+my+GitHub+Profile!">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3500&pause=600&color=A64CF5&center=true&vCenter=true&width=900&lines=Hi+There+👋,+I'm+Ashik+Muhammed;Cross-Platform+App+Developer;Computer+Vision+Engineer;IoT+%26+Embedded+Systems+Innovator;Welcome+to+My+Tech+Galaxy!">
 </p>
 
-<!-- Dark / Light Mode Banner -->
+<!-- ======================= Galaxy Banner ======================= -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashik-Muhammed/Ashik-Muhammed/main/assets/banner-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashik-Muhammed/Ashik-Muhammed/main/assets/banner-light.png">
-    
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-galaxy.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-galaxy.png">
+    <img src="assets/banner-galaxy.png" alt="Ashik Galaxy Banner" width="100%">
   </picture>
 </p>
 
-<!-- Badges -->
+<!-- ======================= BADGES ======================= -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Mobile%20Apps-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-Computer%20Vision-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Role-Developer-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Mobile_Apps-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Computer_Vision-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Field-IoT_Engineer-cyan?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Profile-Advanced_Developer-magenta?style=for-the-badge"/>
 </p>
 
----
-
-# 🚀 Featured Projects
-
-<table>
-  <tr>
-    <th>Project</th>
-    <th>Description</th>
-    <th>Tech</th>
-  </tr>
-
-  <tr>
-    <td><a href="https://github.com/Ashik-Muhammed/footfall-detector-BAI-pvt-ltd">footfall-detector-BAI-pvt-ltd</a></td>
-    <td>AI-powered computer vision system for real-time footfall detection in video streams.</td>
-    <td><strong>Python</strong></td>
-  </tr>
-
-  <tr>
-    <td><a href="https://github.com/Ashik-Muhammed/ZAP_Zygreen_Air_Purifier">ZAP_Zygreen_Air_Purifier</a></td>
-    <td>Flutter mobile app for live ESP32 data monitoring & IoT control.</td>
-    <td><strong>Dart, HTML, C++</strong></td>
-  </tr>
-
-  <tr>
-    <td><a href="https://github.com/Ashik-Muhammed/nimo">nimo</a></td>
-    <td>An efficient expense tracking app with clean UI.</td>
-    <td><strong>Dart, C++</strong></td>
-  </tr>
-
-  <tr>
-    <td><a href="https://github.com/Ashik-Muhammed/wellnest">wellnest</a></td>
-    <td>Health & wellness tracking app with modern UX.</td>
-    <td><strong>Dart</strong></td>
-  </tr>
-
-  <tr>
-    <td><a href="https://github.com/Ashik-Muhammed/hotstar_clone">hotstar_clone</a></td>
-    <td>Recreated UI of HOTSTAR streaming platform.</td>
-    <td><strong>HTML, CSS, JS</strong></td>
-  </tr>
-
-  <tr>
-    <td><a href="https://github.com/Ashik-Muhammed/portfolio_website">portfolio_website</a></td>
-    <td>My personal portfolio website.</td>
-    <td><strong>JavaScript</strong></td>
-  </tr>
-</table>
-
----
-
-# 💻 Technologies I Use
-
-### **Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+<!-- ======================= Neon Divider ======================= -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/gradient.png" width="100%">
 </p>
 
-### **Mobile**
-<p>
+<!-- ======================= PROJECTS ======================= -->
+<h1 align="center">
+  <img src="https://github.com/abdulrafay-07/rafay-assets/blob/main/icons/rocket-hover.gif" width="35">
+  🚀 FEATURED PROJECTS
+</h1>
+
+<div align="center">
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🔹 **[Footfall Detector](https://github.com/Ashik-Muhammed/footfall-detector-BAI-pvt-ltd)** | Real-time people counting using advanced computer vision | Python, OpenCV |
+| 🔹 **[ZAP Air Purifier App](https://github.com/Ashik-Muhammed/ZAP_Zygreen_Air_Purifier)** | Live ESP32 monitoring & IoT control | Flutter, Dart, C++ |
+| 🔹 **[Nimo](https://github.com/Ashik-Muhammed/nimo)** | Minimal and clean expense tracking app | Dart, C++ |
+| 🔹 **[Wellnest](https://github.com/Ashik-Muhammed/wellnest)** | A complete health & wellness tracker | Dart |
+| 🔹 **[Hotstar Clone](https://github.com/Ashik-Muhammed/hotstar_clone)** | A fully responsive HOTSTAR UI clone | HTML, CSS, JS |
+| 🔹 **[Portfolio Website](https://github.com/Ashik-Muhammed/portfolio_website)** | My personal portfolio | JavaScript |
+
+</div>
+
+<!-- ======================= SVG WAVE ======================= -->
+<img src="https://raw.githubusercontent.com/trinib/Linux-Bash-Commands/master/img/waves.svg">
+
+<!-- ======================= SKILLS & TECH ======================= -->
+<h1 align="center">💻 SKILLS & TECHNOLOGIES</h1>
+
+### 🚀 **Languages**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,typescript,dart,go,rust" />
+</p>
+
+### 🎨 **Frontend**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap" />
+</p>
+
+### 📱 **Mobile Development**
+<p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart" />
 </p>
 
-### **Backend / Scripting**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp" />
+### 🧠 **AI / Machine Learning / CV**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+  <img src="https://img.shields.io/badge/YOLO-Object_Detection-purple?style=for-the-badge"/>
 </p>
 
-### **Embedded / IoT**
-<p>
+### 🌐 **Backend / APIs**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" />
+</p>
+
+### 🛢 **Databases**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase" />
+</p>
+
+### 🔌 **IoT & Embedded Systems**
+<p align="center">
   <img src="https://skillicons.dev/icons?i=arduino" />
-  <img src="https://img.shields.io/badge/ESP32-Microcontroller-blue?logo=espressif&style=flat"/>
+  <img src="https://img.shields.io/badge/ESP32-Firmware-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hardware-UART%20%7C%20I2C%20%7C%20SPI-magenta?style=for-the-badge" />
 </p>
 
----
-
-# 🌱 Currently Learning
-
-- Advanced Flutter (native integration, animations, optimization)  
-- Deep Learning for Computer Vision (YOLO, Object Tracking, Segmentation)  
-- Web performance & accessibility best practices  
-
----
-
-# 📊 GitHub Stats (Auto Dark/Light)
-
+### 🛠 **Tools**
 <p align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=Ashik-Muhammed&show_icons=true&theme=tokyonight" media="(prefers-color-scheme: dark)">
-    <source srcset="https://github-readme-stats.vercel.app/api?username=Ashik-Muhammed&show_icons=true&theme=default" media="(prefers-color-scheme: light)">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ashik-Muhammed&show_icons=true">
-  </picture>
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github,postman,linux,figma,blender" />
 </p>
 
+<!-- ======================= Learning ======================= -->
+<h1 align="center">🌱 CURRENTLY LEARNING</h1>
+
 <p align="center">
-  <picture>
-    <source srcset="https://github-readme-streak-stats.herokuapp.com?user=Ashik-Muhammed&theme=tokyonight" media="(prefers-color-scheme: dark)">
-    <source srcset="https://github-readme-streak-stats.herokuapp.com?user=Ashik-Muhammed&theme=default" media="(prefers-color-scheme: light)">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Ashik-Muhammed">
-  </picture>
+  <img src="https://img.shields.io/badge/Flutter-Advanced Animations-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer_Vision-Tracking%20%7C%20Segmentation-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI-Model Optimization-cyan?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Web-Accessibility%20%7C%20Performance-orange?style=for-the-badge"/>
+</p>
+
+<!-- ======================= GitHub Stats ======================= -->
+<h1 align="center">📊 GITHUB ANALYTICS</h1>
+
+<p align="center">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Ashik-Muhammed&show_icons=true&theme=tokyonight&hide_border=true">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashik-Muhammed&layout=compact&theme=tokyonight&hide_border=true">
 </p>
 
 <p align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashik-Muhammed&layout=compact&theme=tokyonight" media="(prefers-color-scheme: dark)">
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashik-Muhammed&layout=compact&theme=default" media="(prefers-color-scheme: light)">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashik-Muhammed&layout=compact">
-  </picture>
+  <img height="180px" src="https://github-readme-streak-stats.herokuapp.com?user=Ashik-Muhammed&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-# 🧰 Toolset
-
+<!-- ======================= Footer ======================= -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github,figma,linux,postman,opencv" />
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" width="60%">
 </p>
 
----
-
-
-<p align="center">✨ Thanks for visiting — feel free to explore my repositories! ✨</p>
+<h2 align="center">✨ Thanks for exploring my galaxy — feel free to star ⭐ my repositories! ✨</h2>
