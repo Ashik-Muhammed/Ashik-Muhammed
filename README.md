@@ -1,27 +1,31 @@
 <!-- ======================= HERO SECTION WITH COSMIC ANIMATION ======================= -->
-<div align="center">
+<div align="center" style="background-image: url('https://github.com/Ashik-Muhammed/Ashik-Muhammed/blob/4414d3d80f3690bc27bec1b8d76f99a35089c7d2/Galaxy.jpeg'); background-size: cover; background-position: center; padding: 50px 0;">
 
-<!-- Cosmic Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=ASHIK%20MUHAMMED&fontSize=70&color=0:8A2BE2,50:4B0082,100:FF1493&stroke=FFFFFF&strokeWidth=2&animation=twinkling&fontColor=FFFFFF&desc=Cross-Platform%20Developer%20|%20Computer%20Vision%20Engineer%20|%20IoT%20Innovator&descAlignY=65&descSize=20" width="100%"/>
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=8A2BE2&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;Building+Tomorrow's+Technology+Today+%F0%9F%9A%80" alt="Typing Animation" />
+  <!-- Cosmic Hero Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=ASHIK%20MUHAMMED&fontSize=70&color=0:8A2BE2,50:4B0082,100:FF1493&stroke=FFFFFF&strokeWidth=2&animation=twinkling&fontColor=FFFFFF&desc=Cross-Platform%20Developer%20|%20Computer%20Vision%20Engineer%20|%20IoT%20Innovator&descAlignY=65&descSize=20" width="100%" />
+  
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=8A2BE2&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;Building+Tomorrow's+Technology+Today+%F0%9F%9A%80" alt="Typing Animation" />
 
-<img src="https://github.com/Ashik-Muhammed/Ashik-Muhammed/blob/47725f419b343f5c06fc26251785ac9ed5731f16/Swim.gif" alt="Typing Animation" />
-<br/>
-<br/>
-<br/>
-<br/>
-<!-- Elite Badges with Glow Effect -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Ashik-Muhammed&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge&logo=eye" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/Ashik-Muhammed?label=FOLLOWERS&style=for-the-badge&color=8A2BE2&logo=github" alt="Followers"/>
-  <img src="https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20HIRE-00ff00?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Status"/>
-  <img src="https://img.shields.io/badge/FOCUS-INNOVATION-FF1493?style=for-the-badge&logo=rocket&logoColor=white" alt="Focus"/>
-</p>
-<br/>
+  <img src="https://github.com/Ashik-Muhammed/Ashik-Muhammed/blob/47725f419b343f5c06fc26251785ac9ed5731f16/Swim.gif" alt="Typing Animation" />
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+
+  <!-- Elite Badges with Glow Effect -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Ashik-Muhammed&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge&logo=eye" alt="Profile Views"/>
+    <img src="https://img.shields.io/github/followers/Ashik-Muhammed?label=FOLLOWERS&style=for-the-badge&color=8A2BE2&logo=github" alt="Followers"/>
+    <img src="https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20HIRE-00ff00?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Status"/>
+    <img src="https://img.shields.io/badge/FOCUS-INNOVATION-FF1493?style=for-the-badge&logo=rocket&logoColor=white" alt="Focus"/>
+  </p>
+
+  <br/>
 </div>
-
 <br/>
+
+
 
 <!-- ======================= ANIMATED DIVIDER ======================= -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -600,7 +604,6 @@ const portfolio = {
 
 ---
 
-<img src="https://visitcount.itsvg.in/api?id=Ashik-Muhammed&label=Profile%20Views&color=12&icon=5&pretty=true" alt="Profile Views"/>
 
 
 
