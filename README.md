@@ -8,7 +8,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=8A2BE2&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;Building+Tomorrow's+Technology+Today+%F0%9F%9A%80;Transforming+Ideas+into+Intelligent+Solutions+%F0%9F%92%A1" alt="Typing Animation" />
 
 <br/>
-
+<br/>
+<br/>
 <!-- Elite Badges with Glow Effect -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=Ashik-Muhammed&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge&logo=eye" alt="Profile Views"/>
@@ -16,7 +17,7 @@
   <img src="https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20HIRE-00ff00?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Status"/>
   <img src="https://img.shields.io/badge/FOCUS-INNOVATION-FF1493?style=for-the-badge&logo=rocket&logoColor=white" alt="Focus"/>
 </p>
-
+<br/>
 </div>
 
 <br/>
@@ -25,6 +26,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br/>
+
 
 <!-- ======================= ABOUT ME - TERMINAL STYLE ======================= -->
 <div align="center">
@@ -574,9 +576,6 @@ const portfolio = {
 
 <br/>
 
-<a href="https://www.buymeacoffee.com/ashikmuhammed">
-  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=ashikmuhammed&button_colour=8A2BE2&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDD00" alt="Buy Me A Coffee" height="50"/>
-</a>
 
 </div>
 
@@ -593,21 +592,6 @@ const portfolio = {
 
 <br/>
 
-<!-- ======================= SNAKE CONTRIBUTION ======================= -->
-<div align="center">
-
-## 🐍 CONTRIBUTION SNAKE
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashik-Muhammed/Ashik-Muhammed/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashik-Muhammed/Ashik-Muhammed/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ashik-Muhammed/Ashik-Muhammed/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
-<br/>
-
 <!-- ======================= FOOTER ======================= -->
 <div align="center">
 
@@ -617,7 +601,7 @@ const portfolio = {
 
 <img src="https://visitcount.itsvg.in/api?id=Ashik-Muhammed&label=Profile%20Views&color=12&icon=5&pretty=true" alt="Profile Views"/>
 
-### ⭐ From [Ashik-Muhammed](https://github.com/Ashik-Muhammed) with 💜
+
 
 ### *"First, solve the problem. Then, write the code."* - John Johnson
 
