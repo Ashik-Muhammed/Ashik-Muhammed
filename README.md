@@ -457,8 +457,6 @@ const portfolio = {
 
 <br/><br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ashik-Muhammed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=FF1493&text_color=FFFFFF&include_all_commits=true&count_private=true&custom_title=⚡%20GitHub%20Stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashik-Muhammed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=FFFFFF&langs_count=10&hide=html,css"/>
 
 <br/><br/>
 
