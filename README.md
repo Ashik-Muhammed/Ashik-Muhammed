@@ -72,35 +72,7 @@
 
 </div>
 
-<!-- ======================= SOCIAL LINKS (GLOW ANIMATED) ======================= -->
-<h2 align="center">🌐 CONNECT WITH ME</h2>
 
-<p align="center">
-  <a href="https://github.com/Ashik-Muhammed" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"
-         style="margin: 5px; transition: 0.3s; border-radius: 8px;"
-         onmouseover="this.style.transform='scale(1.12)'; this.style.boxShadow='0 0 18px #8a2be2';"
-         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ashik-muhammed-s-663072201" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-         style="margin: 5px; transition: 0.3s; border-radius: 8px;"
-         onmouseover="this.style.transform='scale(1.12)'; this.style.boxShadow='0 0 18px #00aaff';"
-         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';"/>
-  </a>
-  <a href="https://ashik-muhammed.github.io/ashik/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=firefox&logoColor=white"
-         style="margin: 5px; transition: 0.3s; border-radius: 8px;"
-         onmouseover="this.style.transform='scale(1.12)'; this.style.boxShadow='0 0 18px #cc66ff';"
-         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';"/>
-  </a>
-  <a href="mailto:ashikmuhammed3182@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white"
-         style="margin: 5px; transition: 0.3s; border-radius: 8px;"
-         onmouseover="this.style.transform='scale(1.12)'; this.style.boxShadow='0 0 18px #ff3333';"
-         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';"/>
-  </a>
-</p>
 
 <!-- ======================= Technologies & Tools ======================= -->
 <h1 align="center">💻 Technologies, Tools & Skills I Use</h1>
@@ -180,6 +152,35 @@
 
 <p align="center">
   <img height="180px" src="https://github-readme-streak-stats.herokuapp.com?user=Ashik-Muhammed&theme=tokyonight&hide_border=true"/>
+</p>
+<!-- ======================= SOCIAL LINKS (GLOW ANIMATED) ======================= -->
+<h2 align="center">🌐 CONNECT WITH ME</h2>
+
+<p align="center">
+  <a href="https://github.com/Ashik-Muhammed" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"
+         style="margin: 5px; transition: 0.3s; border-radius: 8px;"
+         onmouseover="this.style.transform='scale(1.12)'; this.style.boxShadow='0 0 18px #8a2be2';"
+         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ashik-muhammed-s-663072201" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+         style="margin: 5px; transition: 0.3s; border-radius: 8px;"
+         onmouseover="this.style.transform='scale(1.12)'; this.style.boxShadow='0 0 18px #00aaff';"
+         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';"/>
+  </a>
+  <a href="https://ashik-muhammed.github.io/ashik/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=firefox&logoColor=white"
+         style="margin: 5px; transition: 0.3s; border-radius: 8px;"
+         onmouseover="this.style.transform='scale(1.12)'; this.style.boxShadow='0 0 18px #cc66ff';"
+         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';"/>
+  </a>
+  <a href="mailto:ashikmuhammed3182@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white"
+         style="margin: 5px; transition: 0.3s; border-radius: 8px;"
+         onmouseover="this.style.transform='scale(1.12)'; this.style.boxShadow='0 0 18px #ff3333';"
+         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';"/>
+  </a>
 </p>
 
 <!-- ======================= Footer ======================= -->
