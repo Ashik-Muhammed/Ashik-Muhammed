@@ -596,6 +596,6 @@ const portfolio = {
 
 ### *"code is like humor , if you have to explain it then it's bad"* 
 
-** Warning: Viewing this profile may cause sudden inspiration to code all night!**
+**Warning: Viewing this profile may cause sudden inspiration to code all night!**
 
 </div>
