@@ -2,7 +2,7 @@
 <!-- ======================= HERO SECTION WITH COSMIC ANIMATION ======================= -->
 <div align="center" 
      style="
-        background-image: url('https://raw.githubusercontent.com/Ashik-Muhammed/Ashik-Muhammed/47725f419b343f5c06fc26251785ac9ed5731f16/Galaxy.jpeg');
+        background-image: url('https://github.com/Ashik-Muhammed/Ashik-Muhammed/blob/b5569c8b8decb7ceeb29619273f3c24de1909829/Background.jpg');
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
