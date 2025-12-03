@@ -10,8 +10,6 @@
         border-radius: 10px;
      ">
 
-  <!-- Optional: Remove this if you do NOT want the galaxy image duplicated -->
-  <!-- <img src="https://github.com/Ashik-Muhammed/Ashik-Muhammed/blob/47725f419b343f5c06fc26251785ac9ed5731f16/Galaxy.jpeg" alt="Galaxy banner" /> -->
 
   <!-- Cosmic Hero Banner -->
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=ASHIK%20MUHAMMED&fontSize=70&color=0:8A2BE2,50:4B0082,100:FF1493&stroke=FFFFFF&strokeWidth=2&animation=twinkling&fontColor=FFFFFF&desc=Cross-Platform%20Developer%20|%20Computer%20Vision%20Engineer%20|%20IoT%20Innovator&descAlignY=65&descSize=20" width="100%" />
