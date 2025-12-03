@@ -3,7 +3,7 @@
    <!-- Cosmic Hero Banner -->
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=ASHIK%20MUHAMMED&fontSize=70&color=0:8A2BE2,50:4B0082,100:FF1493&stroke=FFFFFF&strokeWidth=2&animation=twinkling&fontColor=FFFFFF&desc=Cross-Platform%20Developer%20|%20Computer%20Vision%20Engineer%20|%20IoT%20Innovator&descAlignY=65&descSize=20" width="100%" />
   <!-- Neural Network Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=120&lines=+Architecting+Digital+Ecosystems;+AI|+DataScience|+Computer+Vision|+ML|+IoT|+Innovation;+Transforming+Ideas+into+Intelligent+Solutions" alt="Neural Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=1200&height=120&lines=+Architecting+Digital+Ecosystems;+AI|+DataScience|+Computer+Vision|+ML|+IoT|+Innovation;+Transforming+Ideas+into+Intelligent+Solutions" alt="Neural Typing" />
   <!-- Animated Developer Illustration -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ashik-Muhammed/Ashik-Muhammed/blob/47725f419b343f5c06fc26251785ac9ed5731f16/Swim.gif">
@@ -197,7 +197,7 @@ class Developer {
 <br>C
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mqtt" width="65" height="65" alt="MQTT" />
+<img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/128/mqtt-icon.png" width="65" height="65" alt="MQTT" />
 <br>MQTT
 </td>
 </tr>
@@ -263,7 +263,7 @@ class Developer {
 <img src="https://img.shields.io/badge/ACCURACY-95%25-blue?style=for-the-badge&logo=target" />
 </div>
 
-** Enterprise-Grade People Counting System**
+**Enterprise-Grade People Counting System**
 
 ```python
 features = {
@@ -294,7 +294,7 @@ features = {
 <img src="https://img.shields.io/badge/USERS-500%2B-ff69b4?style=for-the-badge&logo=users" />
 </div>
 
-** Smart IoT Air Quality Management**
+**Smart IoT Air Quality Management**
 
 ```dart
 final features = {
@@ -418,7 +418,7 @@ const features = {
 <img src="https://img.shields.io/badge/LIGHTHOUSE-95%2B-green?style=for-the-badge&logo=lighthouse" />
 </div>
 
-** Interactive Personal Showcase**
+**Interactive Personal Showcase**
 
 ```javascript
 const portfolio = {
@@ -480,7 +480,7 @@ const portfolio = {
 <table>
 <tr>
 <td align="center" width="20%">
-<img src="https://img.icons8.com/nolan/96/problem-solving.png" width="60"/>
+<img src="https://img.icons8.com/external-flaticons-flat-circular-flat-icons/64/external-problem-solving-data-analytics-flaticons-flat-circular-flat-icons.png" width="60"/>
 <br><b>Problem Solving</b>
 <br>
 <img src="https://img.shields.io/badge/Level-Expert-ff1493?style=flat-square"/>
