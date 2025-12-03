@@ -146,7 +146,7 @@ class Developer {
 <table>
 <tr>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
+<img src="https://img.icons8.com/fluency/48/node-js.png"" alt="Node.js" width="65" height="65" />
 <br>Node.js
 </td>
 <td align="center" width="96">
