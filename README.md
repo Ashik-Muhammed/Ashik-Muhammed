@@ -3,10 +3,10 @@
 
 <!-- Cosmic Hero Banner -->
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=ASHIK%20MUHAMMED&fontSize=70&color=0:8A2BE2,50:4B0082,100:FF1493&stroke=FFFFFF&strokeWidth=2&animation=twinkling&fontColor=FFFFFF&desc=Cross-Platform%20Developer%20|%20Computer%20Vision%20Engineer%20|%20IoT%20Innovator&descAlignY=65&descSize=20" width="100%"/>
-
+<br/>
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=8A2BE2&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;Building+Tomorrow's+Technology+Today+%F0%9F%9A%80;Transforming+Ideas+into+Intelligent+Solutions+%F0%9F%92%A1" alt="Typing Animation" />
-
+<br/>
 <br/>
 <br/>
 <br/>
@@ -38,13 +38,13 @@
 ```typescript
 class Developer {
     name: string = "Ashik Muhammed";
-    location: string = "🌴 Thiruvananthapuram, Kerala, India";
+    location: string = " Thiruvananthapuram, Kerala, India";
     
     currentRole: string[] = [
-        "🚀 Cross-Platform App Developer",
-        "👁️ Computer Vision Engineer", 
-        "🔌 IoT & Embedded Systems Specialist",
-        "🤖 AI/ML Enthusiast"
+        " Cross-Platform App Developer",
+        " Computer Vision Engineer", 
+        " IoT & Embedded Systems Specialist",
+        " AI/ML Enthusiast"
     ];
     
     expertise: {
