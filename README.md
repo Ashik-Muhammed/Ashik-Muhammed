@@ -1,14 +1,11 @@
 
 <!-- ======================= HERO SECTION WITH COSMIC ANIMATION ======================= -->
-<div align="center" 
-     style="
-        background-image: url('https://github.com/Ashik-Muhammed/Ashik-Muhammed/blob/b5569c8b8decb7ceeb29619273f3c24de1909829/Background.jpg');
-        background-size: cover;
-        background-position: center;
-        background-repeat: no-repeat;
-        padding: 40px 0;
-        border-radius: 10px;
-     ">
+<div align="center" >
+       <img 
+    src="https://github.com/Ashik-Muhammed/Ashik-Muhammed/blob/b5569c8b8decb7ceeb29619273f3c24de1909829/Background.jpg"
+    alt="Galaxy Banner" 
+    width="100%"
+  />
 
 
   <!-- Cosmic Hero Banner -->
