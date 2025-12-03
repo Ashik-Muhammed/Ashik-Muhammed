@@ -3,7 +3,7 @@
    <!-- Cosmic Hero Banner -->
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=ASHIK%20MUHAMMED&fontSize=70&color=0:8A2BE2,50:4B0082,100:FF1493&stroke=FFFFFF&strokeWidth=2&animation=twinkling&fontColor=FFFFFF&desc=Cross-Platform%20Developer%20|%20Computer%20Vision%20Engineer%20|%20IoT%20Innovator&descAlignY=65&descSize=20" width="100%" />
   <!-- Neural Network Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=120&lines=+Architecting+Digital+Ecosystems;+AI +Data Science +Computer+Vision+ML+IoT+Innovation;+Transforming+Ideas+into+Intelligent+Solutions" alt="Neural Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=120&lines=+Architecting+Digital+Ecosystems;+AI+DataScience+Computer+Vision+ML+IoT+Innovation;+Transforming+Ideas+into+Intelligent+Solutions" alt="Neural Typing" />
   <!-- Animated Developer Illustration -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ashik-Muhammed/Ashik-Muhammed/blob/47725f419b343f5c06fc26251785ac9ed5731f16/Swim.gif">
