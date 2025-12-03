@@ -36,7 +36,7 @@
 <!-- ======================= ABOUT ME - TERMINAL STYLE ======================= -->
 <div align="center">
 
-## 🎯 WHO AM I?
+##  WHO AM I?
 
 </div>
 
@@ -68,10 +68,8 @@ class Developer {
     ];
     
     lifePhilosophy(): string {
-        return "Code with passion, debug with patience, deploy with confidence 🎯";
+        return "Code with passion, debug with patience, deploy with confidence ";
     }
-    
-    funFact: string = "I convert ☕ into <code/> and 💡 into 🚀";
 }
 ```
 
@@ -80,9 +78,9 @@ class Developer {
 <!-- ======================= TECH STACK GALAXY ======================= -->
 <div align="center">
 
-## 💫 MY TECH GALAXY
+## MY TECH GALAXY
 
-### 🌟 Frontend Universe
+###  Frontend Universe
 
 <table>
 <tr>
@@ -117,7 +115,7 @@ class Developer {
 </tr>
 </table>
 
-### 🧠 AI/ML & Computer Vision Constellation
+### AI/ML & Computer Vision Constellation
 
 <table>
 <tr>
@@ -148,7 +146,7 @@ class Developer {
 </tr>
 </table>
 
-### ⚡ Backend & Database Nebula
+### Backend & Database 
 
 <table>
 <tr>
@@ -183,7 +181,7 @@ class Developer {
 </tr>
 </table>
 
-### 🔌 IoT & Embedded Solar System
+### IoT & Embedded 
 
 <table>
 <tr>
@@ -210,7 +208,7 @@ class Developer {
 </tr>
 </table>
 
-### ☁️ Cloud & DevOps Cosmos
+### Cloud & DevOps 
 
 <table>
 <tr>
@@ -253,7 +251,7 @@ class Developer {
 <!-- ======================= STELLAR PROJECTS ======================= -->
 <div align="center">
 
-## 🌌 FEATURED PROJECTS - THE PORTFOLIO COSMOS
+##  FEATURED PROJECTS - THE PORTFOLIO COSMOS
 
 </div>
 
@@ -262,14 +260,15 @@ class Developer {
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 [Footfall Detector](https://github.com/Ashik-Muhammed/footfall-detector-BAI-pvt-ltd)
+### [Footfall Detector](https://github.com/Ashik-Muhammed/footfall-detector-BAI-pvt-ltd)
+
 
 <div align="center">
 <img src="https://img.shields.io/badge/STATUS-PRODUCTION-success?style=for-the-badge&logo=statuspage" />
 <img src="https://img.shields.io/badge/ACCURACY-95%25-blue?style=for-the-badge&logo=target" />
 </div>
 
-**🔥 Enterprise-Grade People Counting System**
+** Enterprise-Grade People Counting System**
 
 ```python
 features = {
@@ -287,20 +286,20 @@ features = {
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**🎯 Impact:** Deployed in 10+ retail stores, tracking 50K+ visitors/day
+**Impact:** Deployed in 10+ retail stores, tracking 50K+ visitors/day
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🌿 [ZAP Air Purifier](https://github.com/Ashik-Muhammed/ZAP_Zygreen_Air_Purifier)
+### [ZAP Air Purifier](https://github.com/Ashik-Muhammed/ZAP_Zygreen_Air_Purifier)
 
 <div align="center">
 <img src="https://img.shields.io/badge/STATUS-ACTIVE-success?style=for-the-badge&logo=statuspage" />
 <img src="https://img.shields.io/badge/USERS-500%2B-ff69b4?style=for-the-badge&logo=users" />
 </div>
 
-**💨 Smart IoT Air Quality Management**
+** Smart IoT Air Quality Management**
 
 ```dart
 final features = {
@@ -318,7 +317,7 @@ final features = {
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-**🎯 Impact:** 500+ active devices, 99.2% uptime
+**Impact:** 500+ active devices, 99.2% uptime
 
 </td>
 </tr>
@@ -326,14 +325,14 @@ final features = {
 <tr>
 <td width="50%" valign="top">
 
-### 💰 [Nimo - Expense Tracker](https://github.com/Ashik-Muhammed/nimo)
+### [Nimo - Expense Tracker](https://github.com/Ashik-Muhammed/nimo)
 
 <div align="center">
 <img src="https://img.shields.io/badge/DOWNLOADS-1K%2B-blue?style=for-the-badge&logo=download" />
 <img src="https://img.shields.io/badge/RATING-4.8★-yellow?style=for-the-badge&logo=star" />
 </div>
 
-**📊 Minimalist Financial Management**
+**Minimalist Financial Management**
 
 ```dart
 class NimoFeatures {
@@ -350,20 +349,19 @@ class NimoFeatures {
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Charts](https://img.shields.io/badge/FL_Chart-purple?style=flat-square&logo=chartdotjs&logoColor=white)
 
-**🎯 Impact:** 1000+ downloads, 4.8★ rating
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🧘 [Wellnest - Health Tracker](https://github.com/Ashik-Muhammed/wellnest)
+### [Wellnest - Health Tracker](https://github.com/Ashik-Muhammed/wellnest)
 
 <div align="center">
 <img src="https://img.shields.io/badge/STATUS-BETA-orange?style=for-the-badge&logo=rocket" />
 <img src="https://img.shields.io/badge/WELLNESS-FOCUSED-green?style=for-the-badge&logo=heart" />
 </div>
 
-**🏃 Holistic Health & Wellness Platform**
+**Holistic Health & Wellness Platform**
 
 ```typescript
 interface WellnessFeatures {
@@ -380,7 +378,7 @@ interface WellnessFeatures {
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![ML Kit](https://img.shields.io/badge/ML_Kit-4285F4?style=flat-square&logo=google&logoColor=white)
 
-**🎯 Impact:** 300+ beta testers, 4.6★ feedback
+
 
 </td>
 </tr>
@@ -388,14 +386,14 @@ interface WellnessFeatures {
 <tr>
 <td width="50%" valign="top">
 
-### 🎬 [Hotstar Clone](https://github.com/Ashik-Muhammed/hotstar_clone)
+### [Hotstar Clone](https://github.com/Ashik-Muhammed/hotstar_clone)
 
 <div align="center">
 <img src="https://img.shields.io/badge/TYPE-UI_CLONE-blueviolet?style=for-the-badge&logo=html5" />
 <img src="https://img.shields.io/badge/RESPONSIVE-100%25-success?style=for-the-badge&logo=responsive" />
 </div>
 
-**📺 Pixel-Perfect Streaming UI**
+**Pixel-Perfect Streaming UI**
 
 ```javascript
 const features = {
@@ -412,20 +410,20 @@ const features = {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**🎯 Learning:** Advanced CSS Grid, Flexbox mastery
+**Learning:** Advanced CSS Grid, Flexbox mastery
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🌐 [Portfolio Website](https://github.com/Ashik-Muhammed/portfolio_website)
+### [Portfolio Website](https://github.com/Ashik-Muhammed/portfolio_website)
 
 <div align="center">
 <img src="https://img.shields.io/badge/VISITORS-5K%2B-ff69b4?style=for-the-badge&logo=eye" />
 <img src="https://img.shields.io/badge/LIGHTHOUSE-95%2B-green?style=for-the-badge&logo=lighthouse" />
 </div>
 
-**✨ Interactive Personal Showcase**
+** Interactive Personal Showcase**
 
 ```javascript
 const portfolio = {
@@ -442,7 +440,6 @@ const portfolio = {
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-**🎯 Impact:** 5000+ visitors, Featured on CSS Design Awards
 
 </td>
 </tr>
@@ -450,7 +447,7 @@ const portfolio = {
 
 <div align="center">
 
-### 🚀 [View All Projects →](https://github.com/Ashik-Muhammed?tab=repositories)
+### [View All Projects →](https://github.com/Ashik-Muhammed?tab=repositories)
 
 </div>
 
@@ -459,7 +456,7 @@ const portfolio = {
 <!-- ======================= GITHUB STATS POWERHOUSE ======================= -->
 <div align="center">
 
-## 📈 GITHUB PERFORMANCE METRICS
+## GITHUB PERFORMANCE METRICS
 
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Ashik-Muhammed&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" alt="GitHub Trophies"/>
 
@@ -483,7 +480,7 @@ const portfolio = {
 <!-- ======================= SKILLS MATRIX ======================= -->
 <div align="center">
 
-## 🎯 PROFESSIONAL COMPETENCIES
+##  PROFESSIONAL COMPETENCIES
 
 <table>
 <tr>
@@ -527,7 +524,7 @@ const portfolio = {
 <!-- ======================= LEARNING JOURNEY ======================= -->
 <div align="center">
 
-## 🌱 CURRENT LEARNING PATH
+##  CURRENT LEARNING PATH
 
 <table>
 <tr>
@@ -555,7 +552,7 @@ const portfolio = {
 <!-- ======================= CONNECT SECTION ======================= -->
 <div align="center">
 
-## 🌐 LET'S CONNECT & BUILD SOMETHING AMAZING
+## LET'S CONNECT & BUILD SOMETHING AMAZING
 
 <p>
 <a href="https://github.com/Ashik-Muhammed">
@@ -574,7 +571,7 @@ const portfolio = {
 
 <br/> 
 
-### 💼 Open for Collaborations | 🚀 Available for Freelance Projects | 💡 Always Learning
+###  Open for Collaborations |  Available for Freelance Projects |  Always Learning
 
 <br/>
 
@@ -586,7 +583,7 @@ const portfolio = {
 <!-- ======================= DAILY QUOTE ======================= -->
 <div align="center">
 
-## 💭 DEVELOPER WISDOM
+##  DEVELOPER WISDOM
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The+best+error+message+is+the+one+that+never+shows+up&author=Thomas+Fuchs" alt="Quote"/>
 
@@ -604,8 +601,8 @@ const portfolio = {
 
 
 
-### *"First, solve the problem. Then, write the code."* - John Johnson
+### *"code is like humor , if you have to explain it then it's bad"* 
 
-**🌙 Warning: Viewing this profile may cause sudden inspiration to code all night!**
+** Warning: Viewing this profile may cause sudden inspiration to code all night!**
 
 </div>
