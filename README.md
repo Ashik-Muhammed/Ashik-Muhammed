@@ -1,9 +1,9 @@
 <!-- ======================= QUANTUM HERO SECTION ======================= -->
 <div align="center">
-  <!-- Holographic Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=350&text=ASHIK%20MUHAMMED&fontSize=90&color=gradient&customColorList=12,18,24,30&stroke=00D9FF&strokeWidth=3&animation=fadeIn&fontColor=FFFFFF&desc=◤%20Cross-Platform%20Architect%20◢%20Vision%20AI%20Engineer%20◤%20IoT%20Pioneer%20◢&descAlignY=70&descSize=22&descAlign=50" width="100%" />
+   <!-- Cosmic Hero Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=ASHIK%20MUHAMMED&fontSize=70&color=0:8A2BE2,50:4B0082,100:FF1493&stroke=FFFFFF&strokeWidth=2&animation=twinkling&fontColor=FFFFFF&desc=Cross-Platform%20Developer%20|%20Computer%20Vision%20Engineer%20|%20IoT%20Innovator&descAlignY=65&descSize=20" width="100%" />
   <!-- Neural Network Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=120&lines=%E2%9A%A1+Architecting+Digital+Ecosystems;%F0%9F%A7%A0+AI+%E2%80%A2+Computer+Vision+%E2%80%A2+IoT+Innovation;%F0%9F%9A%80+Transforming+Ideas+into+Intelligent+Solutions" alt="Neural Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=120&lines=+Architecting+Digital+Ecosystems;+AI +Data Science +Computer+Vision+ML+IoT+Innovation;+Transforming+Ideas+into+Intelligent+Solutions" alt="Neural Typing" />
   <!-- Animated Developer Illustration -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ashik-Muhammed/Ashik-Muhammed/blob/47725f419b343f5c06fc26251785ac9ed5731f16/Swim.gif">
