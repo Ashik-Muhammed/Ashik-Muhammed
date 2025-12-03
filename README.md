@@ -3,21 +3,19 @@
    <!-- Cosmic Hero Banner -->
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=ASHIK%20MUHAMMED&fontSize=70&color=0:8A2BE2,50:4B0082,100:FF1493&stroke=FFFFFF&strokeWidth=2&animation=twinkling&fontColor=FFFFFF&desc=Cross-Platform%20Developer%20|%20Computer%20Vision%20Engineer%20|%20IoT%20Innovator&descAlignY=65&descSize=20" width="100%" />
   <!-- Neural Network Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=120&lines=+Architecting+Digital+Ecosystems;+AI+DataScience+Computer+Vision+ML+IoT+Innovation;+Transforming+Ideas+into+Intelligent+Solutions" alt="Neural Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=120&lines=+Architecting+Digital+Ecosystems;+AI|+DataScience|+Computer+Vision|+ML|+IoT|+Innovation;+Transforming+Ideas+into+Intelligent+Solutions" alt="Neural Typing" />
   <!-- Animated Developer Illustration -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ashik-Muhammed/Ashik-Muhammed/blob/47725f419b343f5c06fc26251785ac9ed5731f16/Swim.gif">
     <img src="https://github.com/Ashik-Muhammed/Ashik-Muhammed/blob/47725f419b343f5c06fc26251785ac9ed5731f16/Swim.gif" alt="Developer Animation" width="800"/>
   </picture>
 <br><br>
-  <!-- Cyberpunk Status Badges -->
+
+  <!-- Elite Badges with Glow Effect -->
   <p>
-    <img src="https://img.shields.io/badge/⚡_PROFILE_VIEWS-TRACKING-00D9FF?style=for-the-badge&logo=eye&logoColor=white&labelColor=000000" alt="Views"/>
-    <img src="https://komarev.com/ghpvc/?username=Ashik-Muhammed&label=&style=flat-square&color=00D9FF" alt="View Count"/>
-    <img src="https://img.shields.io/github/followers/Ashik-Muhammed?label=⭐_FOLLOWERS&style=for-the-badge&color=FF00FF&logo=github&logoColor=white&labelColor=000000" alt="Followers"/>
-    <img src="https://img.shields.io/badge/🎯_STATUS-AVAILABLE_FOR_HIRE-00FF41?style=for-the-badge&logoColor=white&labelColor=000000" alt="Status"/>
-    <img src="https://img.shields.io/badge/🧬_MODE-INNOVATION_DRIVEN-FF1493?style=for-the-badge&logoColor=white&labelColor=000000" alt="Mode"/>
-    <img src="https://img.shields.io/badge/🌐_TIMEZONE-UTC+5:30-FFD700?style=for-the-badge&logoColor=white&labelColor=000000" alt="Timezone"/>
+    <img src="https://komarev.com/ghpvc/?username=Ashik-Muhammed&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge&logo=eye" alt="Profile Views"/>
+    <img src="https://img.shields.io/github/followers/Ashik-Muhammed?label=FOLLOWERS&style=for-the-badge&color=8A2BE2&logo=github" alt="Followers"/>
+    <img src="https://img.shields.io/badge/FOCUS-INNOVATION-FF1493?style=for-the-badge&logo=rocket&logoColor=white" alt="Focus"/>
   </p>
 </div>
 <br/>
